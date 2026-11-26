@@ -1,0 +1,5 @@
+.destinos{
+    display: flex;
+    justify-content: space-around;
+    background-color: #203d1e;
+}
